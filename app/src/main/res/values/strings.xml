@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Noted</string>
-    <string name="title_activity_login">LoginActivity</string>
+    <string name="app_name" translatable="false">Students Notebook</string>
+    <string name="title_activity_login" translatable="false">LoginActivity</string>
 
     <string name="login_welcome">Welcome..</string>
     <string name="email">Email</string>
@@ -13,9 +13,9 @@
     <string name="save">Save</string>
     <string name="category">Category</string>
     <string name="title">Title</string>
-    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_settings" translatable="false">SettingsActivity</string>
 
-    <string name="app_changelog">### v1.1.3:\n
+    <string name="app_changelog" translatable="false">### v1.1.3:\n
          - Fixed contact us email\n
 - Added Notes Widgets\n
 - Added Note QS tile\n
